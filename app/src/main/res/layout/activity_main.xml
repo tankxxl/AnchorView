@@ -7,7 +7,7 @@
     android:background="@android:color/holo_red_dark"
     tools:context=".MainActivity">
 
-    <com.umpay.anchorview.AnchorView
+    <com.rgz.anchorview.AnchorView
         android:id="@+id/anchor"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
